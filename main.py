@@ -45,4 +45,4 @@ async def on_message(message):
     except ValueError:
         pass
 
-bot.run('MTE3OTY1NDUwMTQzOTkwOTg5OA.GH0658.EJpF4jSZxiGxWWx2wMwevZICN00D2kC-yhru7E')
+bot.run('TOKEN_IS_HERE')
